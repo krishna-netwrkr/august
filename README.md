@@ -3,6 +3,8 @@
 
 
 8/3/20
+       Formulated Supplemental Intake Log
+       Found sources for physical therapy exercises
 
 
 8/2/20
