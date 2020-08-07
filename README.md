@@ -1,7 +1,11 @@
 # august
 
 
-
+8/6/20
+       Started Physical Therapy Pseduocode 
+       Purchased rawrxtrapstar.com
+       Working on JSON code for PT exercises
+       
 8/3/20
        Formulated Supplemental Intake Log
        Found sources for physical therapy exercises
