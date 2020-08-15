@@ -1,6 +1,7 @@
 # august
 
-
+8/15/20
+       worked with csv
 8/6/20
        Started Physical Therapy Pseduocode 
        Purchased rawrxtrapstar.com
