@@ -1,11 +1,17 @@
 # august
 
+
+
 8/15/20
        worked with csv
+       started recording solar system calculations for intraplanetary metaphysicist
+       uploaded amp templates
+       
 8/6/20
        Started Physical Therapy Pseduocode 
        Purchased rawrxtrapstar.com
        Working on JSON code for PT exercises
+       
        
 8/3/20
        Formulated Supplemental Intake Log
